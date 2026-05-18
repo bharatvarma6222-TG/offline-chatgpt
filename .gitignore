@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+chat_history.db
+chroma_db/
+.env
